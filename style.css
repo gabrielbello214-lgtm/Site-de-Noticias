@@ -43,9 +43,10 @@ header nav a {
   transition: 0.5s;
 }
 
-header nav a:first-child {
+header nav a.ativo {
   color: #09FF00;
 }
+
 
 header nav a:hover {
   color: #09FF00;
